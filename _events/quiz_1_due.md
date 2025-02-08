@@ -1,8 +1,8 @@
 ---
 type: quiz
-date: 1403-07-24T13:0:0+4:30
+date: 1403-12-05T15:0:0+0:0
 description: 'Quiz 1'
 hide_from_announcments: true
 ---
 **Topics:**
-1. Part 1 (Elementary Row Operations, and Linear Equations, Row Reduction and Echelon Forms, Vector Space, Subspace)
+1. Relational Model

@@ -1,8 +1,8 @@
 ---
 type: quiz
-date: 1403-08-13T13:0:0+4:30
+date: 1403-12-19T15:0:0+0:0
 description: 'Quiz 2'
 hide_from_announcments: true
 ---
 **Topics:**
-1. Part 2 (Independence (Linear and Affine)Bases, Dimension and Rank)
+1. Semantic Database Design
