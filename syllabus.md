@@ -11,171 +11,158 @@ permalink: /syllabus/
         <th>Part</th>
         <th>Lecture Topic</th>
     </tr>
-    <tr style="background-color:#ffffe0">
-        <td>1403/07/01</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/11/23</td>
         <td>S01</td>
-        <td rowspan="4">1</td>
-        <td>Elementary Row Operations, and Linear Equations</td>
+        <td rowspan="7">1</td>
+        <td>Introduction and Overview of Database Systems</td>
     </tr>
-    <tr style="background-color:#ffffe0">
-        <td>1403/07/03</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/11/28</td>
         <td>S02</td>
-        <td>Row Reduction and Echelon Forms</td>
+        <td>Relations and related concepts, Types of keys</td>
     </tr>
-    <tr style="background-color:#ffffe0">
-        <td>1403/07/08</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/11/30</td>
         <td>S03</td>
-        <td>Vector Space</td>
+        <td>Relational Operations</td>
     </tr>
-    <tr style="background-color:#ffffe0">
-        <td>1403/07/10</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/12/05</td>
         <td>S04</td>
-        <td>Subspace</td>
+        <td>Relational Algebra</td>
     </tr>
-    <tr style="background-color:#add8e6">
-        <td>1403/07/15</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/12/07</td>
         <td>S05</td>
-        <td rowspan="5">2</td>
-        <td>Independence (Linear and Affine)</td>
+        <td>Semantic modeling, Entity, attribute, relationship</td>
     </tr>
-    <tr style="background-color:#add8e6">
-        <td>1403/07/17</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/12/12</td>
         <td>S06</td>
-        <td>Independence (Linear and Affine)</td>
+        <td>ER & EER, Aggregation and Generalization</td>
     </tr>
-    <tr style="background-color:#add8e6">
-        <td>1403/07/22</td>
+    <tr style="background-color: #ffffe0">
+        <td>1403/12/14</td>
         <td>S07</td>
-        <td>Bases, Dimension</td>
+        <td>Converting semantic models to logical design</td>
     </tr>
-    <tr style="background-color:#add8e6">
-        <td>1403/07/24</td>
+    <tr style="background-color: #add8e6">
+        <td>1403/12/19</td>
         <td>S08</td>
-        <td>Dimension and Rank</td>
+        <td rowspan="4">2</td>
+        <td>Schema, Data Types</td>
     </tr>
-    <tr style="background-color:#add8e6">
-        <td>1403/07/29</td>
+    <tr style="background-color: #add8e6">
+        <td>1403/12/21</td>
         <td>S09</td>
-        <td>Dimension and Rank</td>
-        
+        <td>DDL</td>
     </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1403/08/01</td>
+    <tr style="background-color: #add8e6">
+        <td>1403/12/26</td>
         <td>S10</td>
-        <td rowspan="4">3</td>
-        <td>Inner Product Space</td>
+        <td>DML</td>
     </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1403/08/06</td>
+    <tr style="background-color: #add8e6">
+        <td>1403/12/28</td>
         <td>S11</td>
-        <td>Inner Product Space</td>
+        <td>Join, DCL</td>
     </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1403/08/08</td>
+    <tr style="background-color: #ffcccb">
+        <td>1404/01/17</td>
         <td>S12</td>
-        <td>Euclidean Norm, Inequalities and Angle</td>
+        <td rowspan="5">3</td>
+        <td>View & Materialized View</td>
     </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1403/08/13</td>
+    <tr style="background-color: #ffcccb">
+        <td>1404/01/19</td>
         <td>S13</td>
-        <td>Orthogonality (Gram–Schmidt, etc.)</td>
+        <td>Integrity, Assertion</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/08/15</td>
+    <tr style="background-color: #ffebcd">
+        <td>1404/01/24</td>
         <td>S14</td>
-        <td rowspan="6">4</td>
-        <td>Linear Transformation</td>
+        <td>Procedure, Function, Trigger</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/08/20</td>
+    <tr style="background-color: #ffebcd">
+        <td>1404/01/26</td>
         <td>S15</td>
-        <td>Linear Transformation</td>
+        <td>Output Control + Redirection, Window Functions, Nested Queries</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/08/22</td>
+    <tr style="background-color: #ffebcd">
+        <td>1404/01/31</td>
         <td>S16</td>
-        <td>Change Basis</td>
+        <td>Lateral Joins, Common Table Expressions (CTE), Recursive Queries</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/08/27</td>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/02</td>
         <td>S17</td>
-        <td>Inverse</td>
+        <td rowspan="3">4</td>
+        <td>Functional Dependencies</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/08/29</td>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/07</td>
         <td>S18</td>
-        <td>Determinant</td>
+        <td>Normalization</td>
     </tr>
-    <tr style="background-color:#ffebcd">
-        <td>1403/09/04</td>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/09</td>
         <td>S19</td>
-        <td>Determinant</td>
+        <td>Anomalies</td>
     </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/06</td>
-        <td>S20</td>
-        <td rowspan="5">5</td>
-        <td>Eigenvectors and Eigenvalues</td>
-    </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/11</td>
-        <td>S21</td>
-        <td>Singular Values and Singular Vectors</td>
-    </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/13</td>
-        <td>S22</td>
-        <td>Symmetric Matrices and Quadratic Forms</td>
-    </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/18</td>
-        <td>S23</td>
-        <td>Diagonalization</td>
-    </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/20</td>
-        <td>S24</td>
-        <td>Matrix Factorization</td>
-    </tr>
-    <tr style="background-color:#ff6347">
-        <td>1403/09/22</td>
+    <tr style="background-color: #ff6347">
+        <td>1404/02/14</td>
         <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
-    <tr style="background-color:#e6e6fa">
-        <td>1403/09/25</td>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/16</td>
+        <td>S20</td>
+        <td rowspan="3"></td>
+        <td>Query Execution Plan, Query Profiling, Indexes Clustered & Non-Clustered</td>
+    </tr>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/21</td>
+        <td>S21</td>
+        <td>B-Tree، B+-Tree, Hash</td>
+    </tr>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/23</td>
+        <td>S22</td>
+        <td>Tuning, Purging, Partitioning</td>
+    </tr>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/02/28</td>
+        <td>S23</td>
+        <td rowspan="6"></td>
+        <td>Isolation Levels, TCL</td>
+    </tr>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/02/30</td>
+        <td>S24</td>
+        <td>Concurrency Control, Recovery System</td>
+    </tr>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/03/04</td>
         <td>S25</td>
-        <td></td>
-        <td>SVD</td>
+        <td>Data warehouse, Data mart, Logical Design</td>
     </tr>
-    <tr style="background-color:#b2ffb2">
-        <td>1403/09/27</td>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/03/06</td>
         <td>S26</td>
-        <td rowspan="5">6</td>
-        <td>Norm Space</td>
+        <td>Distributed Databases</td>
     </tr>
-    <tr style="background-color:#b2ffb2">
-        <td>1403/10/02</td>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/03/11</td>
         <td>S27</td>
-        <td>Derivatives</td>
+        <td>NOSQL</td>
     </tr>
-    <tr style="background-color:#b2ffb2">
-        <td>1403/10/04</td>
+    <tr style="background-color: #b2ffb2">
+        <td>1404/03/13</td>
         <td>S28</td>
-        <td>Derivatives</td>
-
+        <td>Graph and Document based Databases, Vector Databases and AI</td>
     </tr>
-    <tr style="background-color:#b2ffb2">
-        <td>1403/10/09</td>
-        <td>S29</td>
-        <td>Least squares</td>
-    </tr>
-    <tr style="background-color:#b2ffb2">
-        <td>1403/10/11</td>
-        <td>S30</td>
-        <td>Least squares</td>
-    </tr>
-    <tr style="background-color:#ff6347">
-        <td>1403/10/30</td>
+    <tr style="background-color: #ff6347">
+        <td>1404/03/22</td>
         <td colspan="4" style="text-align: center;">Final Exam</td>
     </tr>
 </table>
