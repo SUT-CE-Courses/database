@@ -79,17 +79,17 @@ permalink: /syllabus/
         <td>S13</td>
         <td>Integrity, Assertion</td>
     </tr>
-    <tr style="background-color: #ffebcd">
+    <tr style="background-color: #ffcccb">
         <td>1404/01/24</td>
         <td>S14</td>
         <td>Procedure, Function, Trigger</td>
     </tr>
-    <tr style="background-color: #ffebcd">
+    <tr style="background-color: #ffcccb">
         <td>1404/01/26</td>
         <td>S15</td>
         <td>Output Control + Redirection, Window Functions, Nested Queries</td>
     </tr>
-    <tr style="background-color: #ffebcd">
+    <tr style="background-color: #ffcccb">
         <td>1404/01/31</td>
         <td>S16</td>
         <td>Lateral Joins, Common Table Expressions (CTE), Recursive Queries</td>
@@ -164,6 +164,10 @@ permalink: /syllabus/
     <tr style="background-color: #ff6347">
         <td>1404/03/22</td>
         <td colspan="4" style="text-align: center;">Final Exam</td>
+    </tr>
+    <tr style="background-color: #e163ff">
+        <td>1404/04/10</td>
+        <td colspan="4" style="text-align: center;">DB Session</td>
     </tr>
 </table>
 
