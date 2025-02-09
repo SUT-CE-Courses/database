@@ -133,7 +133,7 @@ permalink: /syllabus/
     <tr style="background-color: #b2ffb2">
         <td>1404/02/28</td>
         <td>S23</td>
-        <td rowspan="6"></td>
+        <td rowspan="6">5</td>
         <td>Isolation Levels, TCL</td>
     </tr>
     <tr style="background-color: #b2ffb2">
@@ -174,18 +174,18 @@ permalink: /syllabus/
 
 
 # Grading Policy
-  * Quizes: 3 points (5 quizes each 0.75 points; the lowest score will be dropped)
-  * Written Assignments: 5.6 points (each of the first four is 0.85 points, and each of the last two is 1.1 points)
-  * Programming Assignments: 2.4 points (preliminary exercises: 0.4 points, and the next two exercises are each 1 points)
-  * Midterm Exam: 5 points (Lectures part 1,2,3,4)
-  * Final Exam: 5 points (Lectures part 4(Determinant),5,6) 
-  * Total Points: 21 points
+  * Quizes: 2 points (6 quizes each 0.4 points; getting a sum of 2 points from quizes is enough)
+  * Assignments: 6 points
+  * Midterm Exam: 5 points (Lectures part 1, 2, 3)
+  * Final Exam: 7 points
+  * Project and Presentation: 2 points (bonus; there will be a session after the final exam for presentation)
+  * Total Points: 22 points
 
 # Academic Dishonsty Policy
 Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
 
 # Exams
-Quizzes will be held as the following table on **13:00** for half an hour and will be graded in GradeScope. 
+Quizzes will be held as the following table on **15:00** for tem minutes. 
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -194,42 +194,46 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>1403/07/24 13:00-13:30</td>
+    <td>1403/12/05 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1403/08/13 13:00-13:30</td>
+    <td>1403/12/19 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
-    <td>1403/08/27 13:00-13:30</td>
+    <td>1404/01/10 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1403/09/18 13:00-13:30</td>
+    <td>1404/01/31 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1403/09/22 09:00-12:00</td>
+    <td>1404/02/14 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
-    <td>1403/10/11 13:00-13:30</td>
+    <td>1404/02/28 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
+    <td>Quiz 6</td>
+    <td>1404/03/11 15:00</td>
+  </tr>
+  <tr style="background-color: #B2E0D6;">
     <td>Final</td>
-    <td>1403/10/30 09:00-12:00</td>
+    <td>1404/03/22 14:30</td>
   </tr>
 </table>
 
 
 
 # Assignments
-Written and programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 4 late days for practical assignments and 4 late days for theoretical assignments. A late day extends the deadline 24 hours. Once you have used all  late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submition is accepted afterwards.
+Assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 9 late days for assignments. Once you have used all late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submition is accepted afterwards.
 
 
 # TA Classes
-TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sharif.edu/rabiee-ta.
+Workshops for practical assignments will be in short videos, released on the same day as the assignment. TA classes for exams will be held online on the assigned day.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -237,34 +241,26 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <th>Title</th>
   </tr>
   <tr style="background-color: #e0f7fa;">
-    <td>1403/07/18</td>
-    <td>Part1</td>
+    <td>1403/12/28</td>
+    <td>Workshop 1</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
-    <td>1403/08/09</td>
-    <td>Part2</td>
+    <td>1404/01/22</td>
+    <td>Workshop 2</td>
   </tr>
   <tr style="background-color: #F1C0D5;">
-    <td>1403/08/23</td>
-    <td>Part3</td>
-  </tr>
-  <tr style="background-color: #c8e6c9;">
-    <td>1403/09/14</td>
-    <td>Part4</td>
-  </tr>
-  <tr style="background-color: #E6B7E0;">
-    <td>1403/09/21</td>
+    <td>1404/02/11</td>
     <td>Midterm</td>
   </tr>
-  <tr style="background-color: #FFF3B3">
-    <td>1403/10/05</td>
-    <td>Part5</td>
+  <tr style="background-color: #c8e6c9;">
+    <td>1404/03/03</td>
+    <td>Workshop 3</td>
   </tr>
-  <tr style="background-color: #F0E1E1;">
-    <td>1403/10/29</td>
+  <tr style="background-color: #E6B7E0;">
+    <td>1404/03/19</td>
     <td>Final</td>
   </tr>
 </table>
 
 # Site
-You can find all resources and announsments of course on jabrekh.ir
+You can find all resources and announsments of course on sut-ce-courses.github.io/DB
