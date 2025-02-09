@@ -3,7 +3,7 @@ course_name: Database
 course_description: "This course covers databases."
 course_semester: "Spring 2025"
 
-baseurl: "/db" # the subpath of your site, e.g. /blog/
+baseurl: "/DB" # the subpath of your site, e.g. /blog/
 url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
