@@ -3,7 +3,7 @@ course_name: Database
 course_description: "This course delves into the principles of database management, focusing on essential concepts applicable across various domains. Database management is a crucial discipline that explores the organization and manipulation of data within information systems. The course covers fundamental topics such as entity relationships, SQL query, relational algebra, normalization, NoSQL query, and optimizations. Proficiency in database management is vital in fields like software development, business intelligence, data analysis, cybersecurity, and information technology. Given its pervasive relevance, database management is a cornerstone of academic programs, reflecting its significance in contemporary technological landscapes."
 course_semester: "Spring 2025"
 
-baseurl: "/DB" # the subpath of your site, e.g. /blog/
+baseurl: "/database" # the subpath of your site, e.g. /blog/
 url: "http://sut-ce-courses.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
