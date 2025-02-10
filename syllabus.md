@@ -263,4 +263,4 @@ Workshops for practical assignments will be in short videos, released on the sam
 </table>
 
 # Site
-You can find all resources and announsments of course on sut-ce-courses.github.io/DB
+You can find all resources and announsments of course on sut-ce-courses.github.io/database
