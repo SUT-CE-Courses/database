@@ -12,103 +12,93 @@ permalink: /syllabus/
         <th>Lecture Topic</th>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/11/23</td>
+        <td>1403/11/28</td>
         <td>S01</td>
         <td rowspan="7">1</td>
         <td>Introduction and Overview of Database Systems</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/11/28</td>
+        <td>1403/11/30</td>
         <td>S02</td>
         <td>Relations and related concepts, Types of keys</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/11/30</td>
+        <td>1403/12/05</td>
         <td>S03</td>
         <td>Relational Operations</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/12/05</td>
+        <td>1403/12/07</td>
         <td>S04</td>
         <td>Relational Algebra</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/12/07</td>
+        <td>1403/12/12</td>
         <td>S05</td>
         <td>Semantic modeling, Entity, attribute, relationship</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/12/12</td>
+        <td>1403/12/14</td>
         <td>S06</td>
         <td>ER & EER, Aggregation and Generalization</td>
     </tr>
     <tr style="background-color: #ffffe0">
-        <td>1403/12/14</td>
+        <td>1403/12/19</td>
         <td>S07</td>
         <td>Converting semantic models to logical design</td>
     </tr>
     <tr style="background-color: #add8e6">
-        <td>1403/12/19</td>
+        <td>1403/12/21</td>
         <td>S08</td>
         <td rowspan="4">2</td>
         <td>Schema, Data Types</td>
     </tr>
     <tr style="background-color: #add8e6">
-        <td>1403/12/21</td>
+        <td>1403/12/26</td>
         <td>S09</td>
         <td>DDL</td>
     </tr>
     <tr style="background-color: #add8e6">
-        <td>1403/12/26</td>
+        <td>1404/01/17</td>
         <td>S10</td>
         <td>DML</td>
     </tr>
     <tr style="background-color: #add8e6">
-        <td>1403/12/28</td>
+        <td>1404/01/19</td>
         <td>S11</td>
         <td>Join, DCL</td>
     </tr>
     <tr style="background-color: #ffcccb">
-        <td>1404/01/17</td>
+        <td>1404/01/24</td>
         <td>S12</td>
         <td rowspan="5">3</td>
         <td>View & Materialized View</td>
     </tr>
     <tr style="background-color: #ffcccb">
-        <td>1404/01/19</td>
+        <td>1404/01/26</td>
         <td>S13</td>
         <td>Integrity, Assertion</td>
     </tr>
     <tr style="background-color: #ffcccb">
-        <td>1404/01/24</td>
+        <td>1404/01/31</td>
         <td>S14</td>
         <td>Procedure, Function, Trigger</td>
     </tr>
     <tr style="background-color: #ffcccb">
-        <td>1404/01/26</td>
+        <td>1404/02/02</td>
         <td>S15</td>
         <td>Output Control + Redirection, Window Functions, Nested Queries</td>
     </tr>
     <tr style="background-color: #ffcccb">
-        <td>1404/01/31</td>
+        <td>1404/02/07</td>
         <td>S16</td>
         <td>Lateral Joins, Common Table Expressions (CTE), Recursive Queries</td>
     </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/02</td>
+        <td>1404/02/09</td>
         <td>S17</td>
         <td rowspan="3">4</td>
         <td>Functional Dependencies</td>
-    </tr>
-    <tr style="background-color: #e6e6fa">
-        <td>1404/02/07</td>
-        <td>S18</td>
-        <td>Normalization</td>
-    </tr>
-    <tr style="background-color: #e6e6fa">
-        <td>1404/02/09</td>
-        <td>S19</td>
-        <td>Anomalies</td>
     </tr>
     <tr style="background-color: #ff6347">
         <td>1404/02/14</td>
@@ -116,30 +106,29 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color: #e6e6fa">
         <td>1404/02/16</td>
+        <td>S18</td>
+        <td>Normalization</td>
+    </tr>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/21</td>
+        <td>S19</td>
+        <td>Anomalies</td>
+    </tr>
+    <tr style="background-color: #e6e6fa">
+        <td>1404/02/23</td>
         <td>S20</td>
         <td rowspan="3"></td>
         <td>Query Execution Plan, Query Profiling, Indexes Clustered & Non-Clustered</td>
     </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/21</td>
+        <td>1404/02/28</td>
         <td>S21</td>
         <td>B-Tree، B+-Tree, Hash</td>
     </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/23</td>
+        <td>1404/02/30</td>
         <td>S22</td>
         <td>Tuning, Purging, Partitioning</td>
-    </tr>
-    <tr style="background-color: #b2ffb2">
-        <td>1404/02/28</td>
-        <td>S23</td>
-        <td rowspan="6">5</td>
-        <td>Isolation Levels, TCL</td>
-    </tr>
-    <tr style="background-color: #b2ffb2">
-        <td>1404/02/30</td>
-        <td>S24</td>
-        <td>Concurrency Control, Recovery System</td>
     </tr>
     <tr style="background-color: #b2ffb2">
         <td>1404/03/04</td>
@@ -194,19 +183,19 @@ Quizzes will be held as the following table on **15:00** for tem minutes.
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>1403/12/05 15:00</td>
+    <td>1403/12/12 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1403/12/19 15:00</td>
+    <td>1403/12/26 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
-    <td>1404/01/10 15:00</td>
+    <td>1404/01/24 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1404/01/31 15:00</td>
+    <td>1404/02/07 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
