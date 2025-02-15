@@ -188,7 +188,7 @@ Quizzes will be held as the following table on **15:00** for tem minutes.
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>1403/12/26 15:00</td>
+    <td>1403/12/21 15:00</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>

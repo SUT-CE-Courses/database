@@ -1,6 +1,6 @@
 ---
 type: due
-date: 1403-12-24T23:59:0+0:00
+date: 1403-12-26T23:59:0
 description: HW#1 Deadline
 
 # optional
