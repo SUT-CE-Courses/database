@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: TA Class
-date: 1404-03-04T18:00:0+0:00
+date: 1404-03-04T18:00:0
 description: HW#5 Workshop
 
 # optional

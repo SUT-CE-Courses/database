@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: TA Class
-date: 1404-03-19T18:00:0+0:00
+date: 1404-03-19T18:00:0
 description: Final
 
 # optional
