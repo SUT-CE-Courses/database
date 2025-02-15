@@ -97,27 +97,27 @@ permalink: /syllabus/
     <tr style="background-color: #e6e6fa">
         <td>1404/02/09</td>
         <td>S17</td>
-        <td rowspan="1"></td>
+        <td rowspan="3">4</td>
         <td>Functional Dependencies</td>
     </tr>
-    <tr style="background-color: #ff6347">
-        <td>1404/02/14</td>
-        <td colspan="4" style="text-align: center;">Midterm Exam</td>
-    </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/16</td>
+        <td>1404/02/14</td>
         <td>S18</td>
-        <td rowspan="5">4</td>
         <td>Normalization</td>
     </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/21</td>
+        <td>1404/02/16</td>
         <td>S19</td>
         <td>Anomalies</td>
+    </tr>
+    <tr style="background-color: #ff6347">
+        <td>1404/02/21</td>
+        <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
     <tr style="background-color: #e6e6fa">
         <td>1404/02/23</td>
         <td>S20</td>
+        <td rowspan="3">4</td>
         <td>Query Execution Plan, Query Profiling, Indexes Clustered & Non-Clustered</td>
     </tr>
     <tr style="background-color: #e6e6fa">
