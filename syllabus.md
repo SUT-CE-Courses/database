@@ -97,7 +97,7 @@ permalink: /syllabus/
     <tr style="background-color: #e6e6fa">
         <td>1404/02/09</td>
         <td>S17</td>
-        <td rowspan="3">4</td>
+        <td rowspan="1"></td>
         <td>Functional Dependencies</td>
     </tr>
     <tr style="background-color: #ff6347">
@@ -107,6 +107,7 @@ permalink: /syllabus/
     <tr style="background-color: #e6e6fa">
         <td>1404/02/16</td>
         <td>S18</td>
+        <td rowspan="5">4</td>
         <td>Normalization</td>
     </tr>
     <tr style="background-color: #e6e6fa">
@@ -117,7 +118,6 @@ permalink: /syllabus/
     <tr style="background-color: #e6e6fa">
         <td>1404/02/23</td>
         <td>S20</td>
-        <td rowspan="3"></td>
         <td>Query Execution Plan, Query Profiling, Indexes Clustered & Non-Clustered</td>
     </tr>
     <tr style="background-color: #e6e6fa">
@@ -132,22 +132,23 @@ permalink: /syllabus/
     </tr>
     <tr style="background-color: #b2ffb2">
         <td>1404/03/04</td>
-        <td>S25</td>
+        <td>S23</td>
+        <td rowspan="4">5</td>
         <td>Data warehouse, Data mart, Logical Design</td>
     </tr>
     <tr style="background-color: #b2ffb2">
         <td>1404/03/06</td>
-        <td>S26</td>
+        <td>S24</td>
         <td>Distributed Databases</td>
     </tr>
     <tr style="background-color: #b2ffb2">
         <td>1404/03/11</td>
-        <td>S27</td>
+        <td>S25</td>
         <td>NOSQL</td>
     </tr>
     <tr style="background-color: #b2ffb2">
         <td>1404/03/13</td>
-        <td>S28</td>
+        <td>S26</td>
         <td>Graph and Document based Databases, Vector Databases and AI</td>
     </tr>
     <tr style="background-color: #ff6347">
