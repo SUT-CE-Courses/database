@@ -200,7 +200,7 @@ Quizzes will be held as the following table on **15:00** for tem minutes.
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1404/02/14 15:00</td>
+    <td>1404/02/21 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
@@ -235,15 +235,15 @@ Workshops for practical assignments will be in short videos, released on the sam
     <td>Workshop 1</td>
   </tr>
   <tr style="background-color: #ffe0b2;">
-    <td>1404/01/22</td>
+    <td>1404/01/29</td>
     <td>Workshop 2</td>
   </tr>
   <tr style="background-color: #F1C0D5;">
-    <td>1404/02/11</td>
+    <td>1404/02/18</td>
     <td>Midterm</td>
   </tr>
   <tr style="background-color: #c8e6c9;">
-    <td>1404/03/03</td>
+    <td>1404/03/04</td>
     <td>Workshop 3</td>
   </tr>
   <tr style="background-color: #E6B7E0;">
