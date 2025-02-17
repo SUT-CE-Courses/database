@@ -175,7 +175,7 @@ permalink: /syllabus/
 Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
 
 # Exams
-Quizzes will be held as the following table on **15:00** for tem minutes. 
+Quizzes will be held as the following table on **15:00** for ten minutes. 
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -219,7 +219,7 @@ Quizzes will be held as the following table on **15:00** for tem minutes.
 
 
 # Assignments
-Assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 9 late days for assignments. Once you have used all late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submition is accepted afterwards.
+Assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 9 late days for assignments. Once you have used all late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submission is accepted afterwards.
 
 
 # TA Classes
