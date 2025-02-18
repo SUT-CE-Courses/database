@@ -7,5 +7,5 @@ thumbnail: /static_files/thumbnails/1-Introduction.png
 links: 
     - url: /static_files/slides/1-Introduction.pdf
       name: slides  
-hide_from_announcments: false
+hide_from_announcments: true
 ---
