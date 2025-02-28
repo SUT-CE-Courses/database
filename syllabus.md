@@ -20,12 +20,12 @@ permalink: /syllabus/
     <tr style="background-color: #ffffe0">
         <td>1403/11/30</td>
         <td>S02</td>
-        <td>Relations and related concepts, Types of keys</td>
+        <td>Relation Models & Types of keys</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/05</td>
         <td>S03</td>
-        <td>Relational Operations</td>
+        <td>Relational Algebra</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/07</td>
