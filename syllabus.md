@@ -20,12 +20,12 @@ permalink: /syllabus/
     <tr style="background-color: #ffffe0">
         <td>1403/11/30</td>
         <td>S02</td>
-        <td>Relations and related concepts, Types of keys</td>
+        <td>Relation Models & Types of keys</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/05</td>
         <td>S03</td>
-        <td>Relational Operations</td>
+        <td>Relational Algebra</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/07</td>
@@ -35,28 +35,28 @@ permalink: /syllabus/
     <tr style="background-color: #ffffe0">
         <td>1403/12/12</td>
         <td>S05</td>
-        <td>Semantic modeling, Entity, attribute, relationship</td>
+        <td>Relational Calculus</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/14</td>
         <td>S06</td>
-        <td>ER & EER, Aggregation and Generalization</td>
+        <td>Semantic modeling, Entity, attribute, relationship</td>
     </tr>
     <tr style="background-color: #ffffe0">
         <td>1403/12/19</td>
         <td>S07</td>
-        <td>Converting semantic models to logical design</td>
+        <td>ER & EER, Aggregation and Generalization</td>
     </tr>
     <tr style="background-color: #add8e6">
         <td>1403/12/21</td>
         <td>S08</td>
         <td rowspan="4">2</td>
-        <td>Schema, Data Types</td>
+        <td>Converting semantic models to logical design</td>
     </tr>
     <tr style="background-color: #add8e6">
         <td>1403/12/26</td>
         <td>S09</td>
-        <td>DDL</td>
+        <td>Schema, Data Types, DDL</td>
     </tr>
     <tr style="background-color: #add8e6">
         <td>1404/01/17</td>
