@@ -97,7 +97,7 @@ permalink: /syllabus/
     <tr style="background-color: #e6e6fa">
         <td>1404/02/09</td>
         <td>S17</td>
-        <td rowspan="3">4</td>
+        <td rowspan="4">4</td>
         <td>Functional Dependencies</td>
     </tr>
     <tr style="background-color: #e6e6fa">
@@ -110,19 +110,19 @@ permalink: /syllabus/
         <td>S19</td>
         <td>Anomalies</td>
     </tr>
-    <tr style="background-color: #ff6347">
-        <td>1404/02/21</td>
-        <td colspan="4" style="text-align: center;">Midterm Exam</td>
-    </tr>
     <tr style="background-color: #e6e6fa">
-        <td>1404/02/23</td>
+        <td>1404/02/21</td>
         <td>S20</td>
-        <td rowspan="3">4</td>
         <td>Query Execution Plan, Query Profiling, Indexes Clustered & Non-Clustered</td>
+    </tr>
+    <tr style="background-color: #ff6347">
+        <td>1404/02/23</td>
+        <td colspan="4" style="text-align: center;">Midterm Exam</td>
     </tr>
     <tr style="background-color: #e6e6fa">
         <td>1404/02/28</td>
         <td>S21</td>
+        <td rowspan="2">4</td>
         <td>B-Tree، B+-Tree, Hash</td>
     </tr>
     <tr style="background-color: #e6e6fa">
@@ -200,7 +200,7 @@ Quizzes will be held as the following table on **15:00** for ten minutes.
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1404/02/21 15:00</td>
+    <td>1404/02/23 15:00</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
