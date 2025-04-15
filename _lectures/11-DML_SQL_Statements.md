@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1404-01-26T0:00:00
+date: 1404-01-26T2:00:00
 title: DDL
 tldr: "Introduction to SQL commands: Select, Join, Data Aggregation, Subqueries, Manipulating Data"
 thumbnail: /static_files/thumbnails/11-DML_SQL_Statements.png
