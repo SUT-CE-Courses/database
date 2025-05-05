@@ -7,5 +7,7 @@ thumbnail: /static_files/thumbnails/17-Modern SQL.png
 links: 
     - url: /static_files/slides/17-Modern SQL.pdf
       name: slides  
+    - url: /static_files/slides/17-Modern SQL Practice.pdf
+      name: practice
 hide_from_announcments: true
 ---
